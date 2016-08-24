@@ -1,0 +1,4 @@
+*.dproj.local
+*.identcache
+*.dsk
+FuturixAlpha/bin/*
